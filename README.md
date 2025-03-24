@@ -40,3 +40,19 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 here is the video walkthrough below 
+https://app.screencastify.com/v3/watch/gu9ngFFG9sv3LxvNRVfX 
+
+
+![alt text](photos/image1.png)
+
+![alt text](photos/image2.png)
+
+![alt text](photos/image3.png)
+
+![alt text](photos/image4.png)
+
+![alt text](photos/image5.png)
+
+![alt text](photos/image6.png)
+
+![alt text](photos/image7.png)
