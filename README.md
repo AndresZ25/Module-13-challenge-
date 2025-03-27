@@ -40,7 +40,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 
 here is the video walkthrough below 
-https://app.screencastify.com/v3/watch/gu9ngFFG9sv3LxvNRVfX 
+https://app.screencastify.com/v3/watch/UBP2fjud6TKtBoIdy35g
 
 
 ![alt text](photos/image1.png)
